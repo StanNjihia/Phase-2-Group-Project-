@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.tsv
+*.csv
+*.db
+*.xlsx
+*.sqlite
+*.pkl
+*.parquet

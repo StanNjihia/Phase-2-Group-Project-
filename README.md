@@ -113,7 +113,6 @@ This project was collaboratively developed by:
 - Stacy Mogeni  
 - Peris Kigo  
 - Kitts Kikumu  
-- Ernest Gichichi
 
 ---
 
